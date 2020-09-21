@@ -33,3 +33,8 @@ console.log(sumFor(tester));
 console.log(sumWhile(tester));
 console.log(sumRecursion(tester));
 console.log(sumTheSimpleWay(tester));
+
+/*
+Attempt #2
+23 minutes and 18 seconds
+ */
